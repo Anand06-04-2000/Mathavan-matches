@@ -1,0 +1,9 @@
+.bg-container{
+    background-image: url('match-burned-on-matchbox-bkaalqfjuerkbi2b.jpg'); /* Set the path to your background image */
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }

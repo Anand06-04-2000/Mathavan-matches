@@ -1,0 +1,28 @@
+.bg-container{
+    background-image: url('match-burned-on-matchbox-bkaalqfjuerkbi2b.jpg');
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .form-group{
+      color:gold;
+  }
+  .form-control{
+      width:80%;
+  }
+  .container_border{
+      
+      border: 1px solid white;
+      padding: 10px;
+      width: 50%;
+      margin-left: 50%;
+  }
+  .demo{
+      color:green;
+  }
+  .demo1{
+      color: red;
+  }
